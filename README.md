@@ -1,16 +1,20 @@
-## Hi there 👋
+            # Olá, eu sou Anderson 👋 #
+💻 Desenvolvedor em formação  
+📚 Estudando Java, Frontend/Backend e me arriscando no Android.
+🚀 Buscando me tornar um desenvolvedor profissional
 
-<!--
-**A-Coder94/A-Coder94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- Java
+- Spring Boot
+- PostgreSQL
+- HTML / CSS / JavaScript
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+
+
+
+
+## Contato
+Email: ac.coder94@gmail.com
