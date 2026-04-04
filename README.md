@@ -1,8 +1,8 @@
         # Olá, eu me Anderson 👋 #
               
-💻 Desenvolvedor em formação  
-📚 Estudando Java, Frontend/Backend e me arriscando no Android.
-🚀 Buscando me tornar um desenvolvedor profissional
+ 💻 Desenvolvedor em formação
+ 📚 Estudando Java, Frontend/Backend e me arriscando no Android.
+ 🚀 Buscando me tornar um desenvolvedor profissional
 
 
          ## Interesses de aprendizagem. ##
