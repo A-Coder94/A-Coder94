@@ -8,8 +8,8 @@
          ## Aprendendo no momento ##
 
 - HTML / CSS / JavaScript / Typescript
+- PostgreSQL / Nodejs / Express.js
 - React
-- PostgreSQL
 - ExpoGO
 
 
