@@ -1,17 +1,18 @@
-              # Olá, eu sou Anderson 👋 #
+        # Olá, eu me Anderson 👋 #
               
 💻 Desenvolvedor em formação  
 📚 Estudando Java, Frontend/Backend e me arriscando no Android.
 🚀 Buscando me tornar um desenvolvedor profissional
 
 
-## Tecnologias que estou estudando
-- Java
+         ## Interesses de aprendizagem. ##
+- ExpoGO
 - React
 - PostgreSQL
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript/Typescript
+
   
 
 
-## Contato
+         ## Contato ##
 Email: ac.coder94@gmail.com
