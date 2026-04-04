@@ -6,10 +6,12 @@
 
 
          ## Aprendendo no momento ##
-- ExpoGO
+
+- HTML / CSS / JavaScript / Typescript
 - React
 - PostgreSQL
-- HTML / CSS / JavaScript/Typescript
+- ExpoGO
+
 
   
 
