@@ -1,4 +1,4 @@
-*#        _Olá, eu me chamo Anderson 👋_        #*
+           *#        _Olá, eu me chamo Anderson 👋_        #*
               
 💻 Desenvolvedor em formação 💻
         
@@ -6,14 +6,14 @@
 
 🚀 Buscando me tornar um desenvolvedor profissional 🚀
 
-*####         Aprendendo no momento         ####*
+            *####         Aprendendo no momento         ####*
 
 - HTML / CSS / JavaScript / Typescript
 - PostgreSQL / Nodejs / Express.js
 - React
 - ExpoGO
 
-*####           Contato           ####*
+                *####           Contato           ####*
 
 Email: ac.coder94@gmail.com
 
