@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Anderson 👋 #
 
-💻 Desenvolvedor em formação com foco em JavaScript, React e Node.js  
+💻 Desenvolvedor em formação com foco em JavaScript e Node.js  
 🚀 Construindo projetos reais com foco em aplicações web  
 📍 Diadema - SP  
 
