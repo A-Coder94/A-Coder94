@@ -17,7 +17,7 @@ Tenho foco em desenvolver soluções reais, com atenção à experiência do usu
 ## 🛠️ Tecnologias
 
 **Front-end:**  
-HTML | CSS | JavaScript | React  
+HTML | CSS | JavaScript |  
 
 **Back-end:**  
 Node.js | APIs REST  
