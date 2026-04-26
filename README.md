@@ -23,14 +23,14 @@ HTML | CSS | JavaScript |
 Node.js | APIs REST  
 
 **Banco de Dados:**  
-PostgreSQL  
+MongoDB  
 
 **Ferramentas:**  
 Git | GitHub  
 
 ---
 
-## 🚀 Projetos em Destaque
+              ## 🚀 Projetos em Destaque
 
 ### ⚽ Projeto Social Joluna  
 🔗 https://www.projetosocialjoluna.com.br/  
@@ -40,7 +40,7 @@ Site institucional desenvolvido com HTML, CSS e JavaScript.
 
 ### 🚧 Diadema em Alerta (em desenvolvimento)  
 Aplicação full-stack para registro de ocorrências urbanas.  
-Stack: React + Node.js + PostgreSQL  
+Stack: React + Node.js + MongoDB  
 
 ---
 
