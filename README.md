@@ -34,12 +34,14 @@ Git | GitHub
 
 ### ⚽ Projeto Social Joluna  
 🔗 https://www.projetosocialjoluna.com.br/  
+
 Site institucional desenvolvido com HTML, CSS e JavaScript.
 
 ---
 
 ### 🚧 Alerta Diadema 
 🔗 https://alerta-diadema-cuzu.vercel.app/
+
 Aplicação full-stack para registro de ocorrências urbanas.  
 Stack: React + Node.js + MongoDB  
 
