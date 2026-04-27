@@ -26,7 +26,7 @@ Node.js | APIs REST
 MongoDB  
 
 **Ferramentas:**  
-Git | GitHub  
+Git | GitHub | Vercel | Railway 
 
 ---
 
@@ -35,7 +35,8 @@ Git | GitHub
 ### ⚽ Projeto Social Joluna  
 🔗 https://www.projetosocialjoluna.com.br/  
 
-Site institucional desenvolvido com HTML, CSS e JavaScript.
+Site institucional para Projeto Social em Diadema.
+Desenvolvido com HTML, CSS e JavaScript.
 
 ---
 
@@ -43,7 +44,7 @@ Site institucional desenvolvido com HTML, CSS e JavaScript.
 🔗 https://alerta-diadema-cuzu.vercel.app/
 
 Aplicação full-stack para registro de ocorrências urbanas.  
-Stack: React + Node.js + MongoDB  
+Desenvolvido com React + Node.js + MongoDB  
 
 ---
 
