@@ -38,7 +38,8 @@ Site institucional desenvolvido com HTML, CSS e JavaScript.
 
 ---
 
-### 🚧 Diadema em Alerta (em desenvolvimento)  
+### 🚧 Alerta Diadema 
+🔗 https://alerta-diadema-cuzu.vercel.app/
 Aplicação full-stack para registro de ocorrências urbanas.  
 Stack: React + Node.js + MongoDB  
 
