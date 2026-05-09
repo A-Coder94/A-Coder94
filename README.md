@@ -41,7 +41,7 @@ Desenvolvido com HTML, CSS e JavaScript.
 ---
 
 ### 🚧 Alerta Diadema 
-🔗 https://alerta-diadema-cuzu.vercel.app/
+🔗 https://alerta-diadema.vercel.app/
 
 Aplicação full-stack para registro de ocorrências urbanas.  
 Desenvolvido com React + Node.js + MongoDB  
