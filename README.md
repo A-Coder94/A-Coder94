@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Anderson 👋 #
 
-💻 Desenvolvedor em formação com foco em JavaScript e Node.js  
+💻 Desenvolvedor em formação com foco em JavaScript, PostgreSQL e Node.js  
 🚀 Construindo projetos reais com foco em aplicações web  
 📍 Diadema - SP  
 
@@ -23,10 +23,10 @@ HTML | CSS | JavaScript |
 Node.js | APIs REST  
 
 **Banco de Dados:**  
-MongoDB  
+PostgreSQL  
 
 **Ferramentas:**  
-Git | GitHub | Vercel | Railway 
+Git | GitHub | Vercel | Railway | Render
 
 ---
 
