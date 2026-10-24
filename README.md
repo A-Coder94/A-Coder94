@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Anderson 👋 #
+# 👋 Olá, eu sou o Anderson  #
 
 💻 Desenvolvedor em formação com foco em JavaScript, PostgreSQL e Node.js  
 🚀 Construindo projetos reais com foco em aplicações web  
@@ -27,24 +27,6 @@ PostgreSQL
 
 **Ferramentas:**  
 Git | GitHub | Vercel | Railway | Render
-
----
-
-              ## 🚀 Projetos em Destaque
-
-### ⚽ Projeto Social Joluna  
-🔗 https://www.projetosocialjoluna.com.br/  
-
-Site institucional para Projeto Social em Diadema.
-Desenvolvido com HTML, CSS e JavaScript.
-
----
-
-### 🚧 Alerta Diadema 
-🔗 https://alerta-diadema.vercel.app/
-
-Aplicação full-stack para registro de ocorrências urbanas.  
-Desenvolvido com React + Node.js + MongoDB  
 
 ---
 
