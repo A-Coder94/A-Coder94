@@ -1,34 +1,27 @@
-# Anderson Costa | Desenvolvedor de Software #
+# Olá! Eu sou Anderson de Souza 👋 #
 
-Desenvolvedor em formação, focado na construção de aplicações e sistemas integrados para Windows, Android e web.
+💻 Desenvolvedor de Software em formação
 
-Meu objetivo é desenvolver soluções que resolvam problemas reais, conectando interfaces, APIs, bancos de dados e diferentes plataformas.
+Meu foco é desenvolver soluções tecnológicas para problemas reais, criando aplicações e sistemas que conectam diferentes plataformas, serviços e bancos de dados.
 
-📍 Diadema — SP, Brasil
+Tenho interesse em desenvolvimento para Windows, Android e web, com atenção especial ao back-end, às APIs e à integração entre sistemas.
 
+🚀 Desenvolvendo projetos práticos para aprimorar minhas habilidades.
 
-🎯 Áreas de atuação
+🧩 Interessado em aplicações multiplataforma e sistemas integrados.
 
-Desenvolvimento de software: aplicações e sistemas personalizados.
+🗄️ Estudando desenvolvimento de APIs, lógica de programação e bancos de dados.
 
-Aplicações multiplataforma: projetos para dispositivos móveis, desktop e web.
-
-Back-end e APIs: criação de serviços e integração entre aplicações.
-
-Banco de dados: modelagem, persistência e consulta de dados.
-
-Desenvolvimento web: interfaces, aplicações web e sistemas administrativos.
+📍 Diadema — SP, Brasil.
 
 
-🛠️ Tecnologias
+🛠️ Tecnologias e ferramentas
 
 Linguagens e desenvolvimento
 
 JavaScript
 
 TypeScript
-
-Node.js
 
 Front-end
 
@@ -60,55 +53,23 @@ Visual Studio Code
 
 Vercel e Render
 
-A lista de tecnologias será atualizada conforme a evolução dos projetos e a experiência prática com cada ferramenta.
+
+Estou em constante evolução e aprofundando meus conhecimentos por meio de estudos e projetos práticos.
+
+Aplicações e sistemas pessoais
+
+Também desenvolvo projetos pessoais voltados à comunicação, à segurança familiar, à localização e à organização de informações, explorando diferentes formas de integrar aplicações e dispositivos.
 
 
-🚀 Projetos em destaque
+🎯 Meu objetivo
 
-Alerta Diadema
-
-Plataforma de monitoramento comunitário com registro de ocorrências e visualização de informações.
-
-Tecnologias: React, Vite, Node.js e serviços de dados.
-
-Status: em desenvolvimento.
-
-
-SOS-Família
-
-Projeto de sistema de segurança e comunicação familiar, com foco em alertas e integração entre dispositivos.
-
-Status: em desenvolvimento.
-
-
-
-Rastreador
-
-Projeto voltado ao acompanhamento de localização e comunicação entre dispositivos.
-
-Status: em desenvolvimento.
-
-
-
-Chat
-
-Aplicação de comunicação privada, com foco em troca de mensagens e integração entre componentes.
-
-Status: em desenvolvimento.
-
-
-📚 Em constante evolução
-
-Estou aprofundando meus conhecimentos em programação, arquitetura de software, integração de sistemas, banco de dados e desenvolvimento de aplicações para diferentes plataformas.
-
-Meu foco é transformar projetos práticos em soluções cada vez mais organizadas, confiáveis e fáceis de manter.
+Evoluir como desenvolvedor de software, ampliando minha capacidade de projetar, construir e manter aplicações úteis, organizadas e confiáveis — desde a interface até as APIs, os dados e a integração entre plataformas.
 
 
 📫 Contato
 
-E-mail: ac.coder94@gmail.com
+💼 https://linkedin.com/in/A-coder94/
 
-LinkedIn: https://linkedin.com/in/A-coder94/
+🌐 https://meu-portifolio-gamma-sand.vercel.app/
 
-Portfólio: https://meu-portifolio-gamma-sand.vercel.app/
-
+💻 https://github.com/A-Coder94?tab=repositories
