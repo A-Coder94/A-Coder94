@@ -15,45 +15,6 @@ Tenho interesse em desenvolvimento para Windows, Android e web, com atenção es
 📍 Diadema — SP, Brasil.
 
 
-🛠️ Tecnologias e ferramentas
-
-Linguagens e desenvolvimento
-
-JavaScript
-
-TypeScript
-
-Front-end
-
-React
-
-Vite
-
-HTML5 e CSS3
-
-Back-end e integração
-
-Node.js
-
-Express
-
-APIs REST
-
-Banco de dados
-
-PostgreSQL
-
-Prisma ORM
-
-Ferramentas
-
-Git e GitHub
-
-Visual Studio Code
-
-Vercel e Render
-
-
 Estou em constante evolução e aprofundando meus conhecimentos por meio de estudos e projetos práticos.
 
 Aplicações e sistemas pessoais
